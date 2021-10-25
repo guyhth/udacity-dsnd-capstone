@@ -1,0 +1,7 @@
+
+.DS_Store
+*.csv
+*.pk
+*.xlsx
+*.lock
+.ipynb_checkpoints/

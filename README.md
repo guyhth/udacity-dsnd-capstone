@@ -25,13 +25,13 @@ This project was performed using Python 3 and the following libraries:
 
 The objective of the project is to predict whether the recipient of an advertising campaign is likely to respond to it, and comprises three major steps:
 
-1. Customer Segmentation Report
+1. **Customer Segmentation Report**  
 Unsupervised learning methods (PCA, *k*-means clustering) will be used to analyse attributes of established customers and the general population in order to create customer segments.
 
-2. Supervised Learning Model
+2. **Supervised Learning Model**  
 Using a third dataset with attributes from targets of a mail order campaign, the previous analysis will be used to build a machine learning model that predicts whether or not each individual will respond to the campaign. This model will be optimised via hyperparameter tuning and other methods.
 
-3. Kaggle Competition
+3. **Kaggle Competition**  
 With the optimised model, predictions will be made on the campaign data and individuals will be ranked by how likely they are to convert to being a customer. The predictions will be submitted to a Kaggle competition.
 
 ## File Descriptions <a name="files"></a>

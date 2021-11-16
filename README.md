@@ -1,7 +1,7 @@
 # Udacity Data Scientist Nanodegree
 ## Capstone Project: Arvato Financial Solutions
 
-This repository contains files associated with my capstone project submission for the Udacity Data Scientist Nanodegree. The blog post that accompanies this can be found on [**TODO: INSERT LINK**](#LinkToBlogPost).
+This repository contains files associated with my capstone project submission for the Udacity Data Scientist Nanodegree. The blog post that accompanies this can be found on [Medium](https://guyhth.medium.com/needles-in-the-haystack-identifying-customers-for-arvato-financial-solutions-2f66e61e3f8a).
 
 ### Table of Contents
 

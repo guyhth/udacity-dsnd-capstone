@@ -55,13 +55,13 @@ These files should be obtained from the Udacity workspace for this project.
 
 ## Results<a name="results"></a>
 
-Results are discussed in more detail in the [TODO: blog post](#), but in summary:
+Results are discussed in more detail in the accompanying [blog post](https://guyhth.medium.com/needles-in-the-haystack-identifying-customers-for-arvato-financial-solutions-2f66e61e3f8a), but in summary:
 
 The unsupervised model identifies clusters of the population that are more likely to be customers: financially-aware people with average income, but high expenditure (high-end cars, home ownership). The columns in the dataset that relate to this are also identified.
 
 A supervised model is built using a Logistic Regression classifier (which is found to outperform other models). It is found that model performance can be improved by using only a subset of columns: those that were found by the unsupervised model to correlate with being a customer. The model is further optimised via hyperparameter tuning.
 
-Finally, predictions are made on a final dataset, and the results submitted to the [Kaggle competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/). A score of 0.622 is achieved; this is not excellent, but is better than would be achieved with a coin toss (score of 0.5)! Possible improvements are discussed in the blog post.
+Finally, predictions are made on a final dataset, and the results submitted to the [Kaggle competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/). A score of 0.622 is achieved; this is not excellent, but is better than would be achieved with a coin toss (score of 0.5)! Possible improvements are discussed in the [blog post](https://guyhth.medium.com/needles-in-the-haystack-identifying-customers-for-arvato-financial-solutions-2f66e61e3f8a).
 
 ![Kaggle screenshot](kaggle_screenshot.png)
 
